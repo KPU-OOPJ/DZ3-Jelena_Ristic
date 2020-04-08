@@ -1,4 +1,4 @@
-Napravite klase NizCena i TestNizCena sa sledećim uslovima:
+**Napravite klase NizCena i TestNizCena sa sledećim uslovima:**
 
 a)	Klasa NizCena koja predstavlja niz cena raznih proizvoda i ima: 
 -	Atribut koji predstavlja niz cena proizvoda (primer cene: 100.5 dinara). Maksimalni kapacitet niza je uvek 100 elemenata. 
